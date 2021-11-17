@@ -5,7 +5,7 @@ import Link from "next/link";
 const PostsList = ({ posts }) => (
   <>
     <Head>
-      <title>Create Next App</title>
+      <title>My Blog</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <header className="d-flex justify-content-center py-3">
